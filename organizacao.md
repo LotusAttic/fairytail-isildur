@@ -14,8 +14,8 @@ Criar milestones como descrito abaixo:
 ## Milestones:
 
 v0.1 - 28/Set/17 - esqueleto e todos arquivos, AUTHORS definido, todos colaboradores adicionados, milestones e labels criados, 5 issues para planejamento de tarefas/ divisão de trabalhos / discussão inicial do código criados, capa da wiki page criada com menu e links para as duas outras páginas.
-v1.0 - 29/Set/17 - versão inicial com o código todo feito faltando apenas as regras
-v2.0 - 01/Set/17 - versão intermediária com o inicio da historia inserida, desenvolvimento top-down iniciado com issues para discutir os laços do jogo RPG.
-v3.0 - 02/Out/17 - versão final - toda a historia inserida, laços interativos adicionados, wikipage pronta com explicações do programa e da história, jogo pronto.
-v3.1 - 03/Out/17 - versão final (hotfix) - ajustes de pequenos bugs e versão final.
+v1.0 - 01/Out/17 - versão inicial com o código todo feito.
+v2.0 - 04/Out/17 - versão intermediária com o inicio da historia inserida, desenvolvimento top-down iniciado com issues para discutir os laços do jogo RPG.
+v3.0 - 07/Out/17 - versão final - toda a historia inserida, laços interativos adicionados, wikipage pronta com explicações do programa e da história, jogo pronto.
+v3.1 - 10/Out/17 - versão final (hotfix) - ajustes de pequenos bugs e versão final.
 
