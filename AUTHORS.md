@@ -4,9 +4,9 @@
 
 Daidson Fonseca Alves
 
-=== Group NN: group name ===
+=== Group : Isildur ===
 
-* Nome Aluno 1 Completo, @githubuser1
+* Iago Gade Gusmao Carrazzoni, @iagoggcarrazzoni
 * Nome Aluno 2 Completo, @githubuser2
 * ...
 
