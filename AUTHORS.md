@@ -7,6 +7,7 @@ Daidson Fonseca Alves
 === Group : Isildur ===
 
 * Iago Gade Gusmao Carrazzoni, @iagoggcarrazzoni
-* Nome Aluno 2 Completo, @githubuser2
+* Evandro Felipe Rodrigues Lima De Carvalho, @evandrorodrigues
+* Nome Aluno 3 Completo, @githubuser2
 * ...
 
